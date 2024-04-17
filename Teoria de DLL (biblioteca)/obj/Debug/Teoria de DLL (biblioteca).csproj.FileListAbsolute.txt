@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\bin\Debug\Teoria de DLL (biblioteca).dll
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\bin\Debug\Teoria de DLL (biblioteca).pdb
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\obj\Debug\Teoria de DLL (biblioteca).csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\obj\Debug\Teoria de DLL (biblioteca).csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\obj\Debug\Teoria de DLL (biblioteca).dll
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\obj\Debug\Teoria de DLL (biblioteca).pdb
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\bin\Debug\Teoria de DLL (biblioteca).dll.config
