@@ -1,0 +1,13 @@
+Tudo que for ensinado em sala, deve ser implementado no seu projeto do desenvolvimento do seu programa
+
+DLL 
+
+
+É uma biblioteca, objetivo dela é ajudar a desenvolver melhor os programas e mais de uma programa pode ser executado em uma dll.
+No linux se chama .SO
+bibliotecas nao sao executaveis. nao existe o metodo main
+
+C:\Users\Tecnico\source\repos\Teoria de DLL (biblioteca)\Teoria de DLL (biblioteca)\bin\Debug
+endereço para encontrar o dll 
+referencia para biblioteca chamada system
+o metodo pessoa e um metodo em especial construtor
